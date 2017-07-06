@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 My Udacity student portfolio
